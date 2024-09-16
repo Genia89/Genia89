@@ -2,7 +2,7 @@
 
 ```yaml
 
-name: Evghenia Elizabeth
+name: Evghenia Elizabeth  --> just call me Jenny
 located_in: Chicago, IL
 current_job: SDET
 education:
