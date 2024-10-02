@@ -30,7 +30,7 @@ currently_upskilling/learning/interested:
   - API
   - Mobile Testing
 
-2024 Goals:
+My forever Goals:
   - Explore and test new platforms, and gain proficiency in a few new technologies.
 
 hobbies:
