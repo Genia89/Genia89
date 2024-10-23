@@ -4,10 +4,6 @@
 
 name: Evghenia Elizabeth  --> just call me Jenny
 located_in: Chicago, IL
-current_job: SDET
-education:
-  - Self-Taught SDET
-  - Bachelor's in Architecture and Constructions
 
 fields_of_interests:
   - QA Testing & Automation
