@@ -3,7 +3,7 @@
 ```yaml
 
 name: Evghenia Elizabeth  --> just call me Jenny
-located_in: Chicago, IL
+location: Earth 
 
 fields_of_interests:
   - QA Testing & Automation
