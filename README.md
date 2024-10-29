@@ -2,7 +2,7 @@
 
 ```yaml
 
-name: Evghenia Elizabeth  --> just call me Jenny
+nickname: Jenny
 location: Earth 
 
 fields_of_interests:
