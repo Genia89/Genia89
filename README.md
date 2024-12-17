@@ -10,7 +10,7 @@ fields_of_interests:
   - Selenium
   - API Testing
   - Functional & Regression Testing
-  - Mobile Testing (in learning stage) - expanding my knowledge and skills
+  - Mobile Testing, JS and Playwright (in learning stage) 
 
 technical_background:
   - Mid-Senior SDET with expertise in Selenium
@@ -22,19 +22,13 @@ technical_background:
   - Knowledgeable in CI/CD pipeline integration for testing using Jenkins
 
 currently_upskilling/learning/interested:
-  - Java
-  - API
+  - JS
+  - Playwright
   - Mobile Testing
+  - AI
 
-My forever Goals:
-  - Explore and test new platforms, and gain proficiency in a few new technologies.
-
-hobbies:
-  - Reading
-  - Jogging
-  - Cooking
-  - Art
-  - Playing the steel tongue drum
+forever Goals:
+  - Explore and test new platforms, and gain proficiency in new technologies.
 
 ```
 
