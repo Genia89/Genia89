@@ -10,7 +10,7 @@ fields_of_interests:
   - Selenium
   - API Testing
   - Functional & Regression Testing
-  - Mobile Testing, JS and Playwright (in learning stage) 
+  - JS and Playwright (in learning stage) 
 
 technical_background:
   - Mid-Senior SDET with expertise in Selenium
@@ -24,7 +24,6 @@ technical_background:
 currently_upskilling/learning/interested:
   - JS
   - Playwright
-  - Mobile Testing
   - AI
 
 forever Goals:
