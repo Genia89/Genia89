@@ -22,8 +22,9 @@ technical_background:
   - Knowledgeable in CI/CD pipeline integration for testing using Jenkins
 
 currently_upskilling/learning/interested:
-  - JS
+  - JS / TS
   - Playwright
+  - Docker
   - AI
 
 forever Goals:
