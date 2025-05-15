@@ -1,4 +1,5 @@
-<img src="https://yourdomain.com/path-to/rainbow-header.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Build.%20Test.%20Deploy&fontSize=90" />
+
 
 
 ```yaml
