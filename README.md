@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Build.%20Test.%20Deploy&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=C8A2C8&height=300&section=header&text=Build.%20Test.%20Deploy&fontSize=90" />
 
 
 
