@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Build.%20Test.%20Deploy&fontSize=90" />
 
 
-
 <h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45" style="margin-right: 15px;"/>
@@ -26,9 +25,13 @@
   <img src="https://img.shields.io/badge/Playwright-%23007ACC.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright" width="90" height="45" style="margin-right: 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" style="margin-right: 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" style="margin-right: 15px;"/>
-
-  <!-- AI icon (generic robot) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="webstorm" width="45" height="45" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="margin-right: 15px;"/>
   <img src="https://img.shields.io/badge/AI-%23FF6F61.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="ai" width="90" height="45" style="margin-right: 15px;"/>
+
+  <!-- Newly added Firebase and HTTPie -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45" style="margin-right: 15px;"/>
+  <img src="https://img.shields.io/badge/HTTPie-%23000000.svg?style=for-the-badge&logo=httpie&logoColor=white" alt="httpie" width="90" height="45" style="margin-right: 15px;"/>
 </p>
 
 
