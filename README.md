@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Build.%20Test.%20Deploy&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Build.%20TEST.%20Deploy&fontSize=90" />
 
 
 <h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
