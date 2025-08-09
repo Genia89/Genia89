@@ -30,6 +30,11 @@
   <!-- Newly added Firebase and HTTPie -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45" style="margin-right: 15px;"/>
   <img src="https://img.shields.io/badge/HTTPie-%23000000.svg?style=for-the-badge&logo=httpie&logoColor=white" alt="httpie" width="90" height="45" style="margin-right: 15px;"/>
+
+  <img src="https://img.shields.io/badge/Junie%20AI-%234B9CE2.svg?style=for-the-badge&logo=ai&logoColor=white" alt="junieai" width="90" height="45" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="vite" width="45" height="45" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45" style="margin-right: 15px;"/>
+</p>
 </p>
 
 
